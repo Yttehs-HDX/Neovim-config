@@ -4,7 +4,7 @@ My custom neovim configuration
 
 ## Screenshot
 
-![Alt text](/Screenshot.png)
+![Screenshot](/Screenshot.png)
 
 # Installation
 
