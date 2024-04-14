@@ -2,6 +2,10 @@
 
 My custom neovim configuration
 
+## Screenshot
+
+![Alt text](/Screenshot.png)
+
 # Installation
 
 Install ``nvim`` ``git`` first.
