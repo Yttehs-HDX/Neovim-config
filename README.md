@@ -8,7 +8,7 @@ My custom neovim configuration
 
 # Installation
 
-Install ``nvim`` ``git`` first.
+Install ``neovim`` ``git`` first.
 
 ```bash
 $ git clone https://github.com/Yttehs-HDX/Neovim-config.git ~/.config/nvim
