@@ -1,22 +1,9 @@
 return {
-	'shaunsingh/nord.nvim',
-	config = function()
-		require('lualine').setup {
-		 	options = {
-    			-- ... your lualine config
-			    theme = 'nord'
-			    -- ... your lualine config
-  			}
-		}
-		local highlights = require("nord").bufferline.highlights({
-			italic = true,
-		    bold = true,
-		})
-		require("bufferline").setup({
-		    options = {
-				separator_style = "thin",
-			},
-			highlights = highlights,
-		})
-	end
+	"gbprod/nord.nvim",
+  lazy = false,
+  priority = 1000,
+  config = function()
+    require("nord").setup({})
+    vim.cmd.colorscheme("nord")
+  end,
 }
