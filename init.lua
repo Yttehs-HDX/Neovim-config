@@ -13,6 +13,9 @@ if not (vim.uv or vim.loop).fs_stat(lazypath) then
 end
 opt.rtp:prepend(lazypath)
 
+-- Hide startup promotion
+opt.shortmess:append("sI")
+
 -- Enable line numbers
 opt.number = true
 
