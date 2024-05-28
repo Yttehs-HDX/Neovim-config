@@ -3,6 +3,6 @@ return {
   event = 'VeryLazy',
   opts = {
     enabled = true,
-    date_format = '%m/%d/%y %H:%M:%S', -- more concise date format
+    date_format = '%y-%m-%d %H:%M:%S', -- more concise date format
   }
 }
