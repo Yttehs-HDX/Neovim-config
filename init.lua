@@ -19,6 +19,9 @@ opt.shortmess:append("sI")
 -- Enable line numbers
 opt.number = true
 
+-- Enable relative line numbers
+opt.relativenumber = true
+
 -- Set tab spacing
 opt.tabstop = 2
 opt.softtabstop = 2
