@@ -7,7 +7,6 @@ return {
 			options = {
 				seperator_style = "thin",
 			},
-			highlights = require('nord.plugins.bufferline').akinsho(),
 		}
 	end
 }
