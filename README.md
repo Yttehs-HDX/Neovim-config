@@ -1,4 +1,8 @@
-# Neovim-config
+# Neovim-config (Deprecated)
+
+*Move to [Yttehs-HDX/dotfiles](https://github.com/Yttehs-HDX/dotfiles/tree/main/config/nvim)*
+
+---
 
 My custom neovim configuration
 
